@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kitten Breed App</string>
+    <string name="name">Name</string>
+    <string name="origin">Origin</string>
+    <string name="description">Description</string>
+    <string name="temperament">Temperament</string>
+    <string name="life_span">Life Span</string>
+    <string name="insert_a_breed">Insert a cat breed here</string>
+    <string name="search">Search</string>
+    <string name="def">Default</string>
+    <string name="text_view_name_display">%1$d</string>
+    <string name="text_view_origin_display">%1$d</string>
+    <string name="text_view_description_display">%1$d</string>
+    <string name="text_view_temperament_display">%1$d</string>
+    <string name="text_view_life_span_display">%1$d</string>
+</resources>
